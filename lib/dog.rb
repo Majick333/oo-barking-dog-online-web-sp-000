@@ -9,6 +9,9 @@ def name
 end
 end
 
-def bark
-  puts "Woof"
+def bark(name)
+  puts "#{name} goes Woof"
 end
+
+lassie = Dog.new
+lassie.name = "Lassie"
