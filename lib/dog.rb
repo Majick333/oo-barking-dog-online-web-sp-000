@@ -16,4 +16,4 @@ end
 lassie = Dog.new
 lassie.name = "Lassie"
 
-bark(dogs_name)
+bark(name)
