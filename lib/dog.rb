@@ -10,7 +10,7 @@ end
 end
 
 def bark(name)
-  puts "#{dogs_name} goes Woof"
+  puts "#{name} goes Woof"
 end
 
 lassie = Dog.new
