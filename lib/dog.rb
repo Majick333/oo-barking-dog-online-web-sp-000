@@ -17,4 +17,4 @@ lassie = Dog.new
 lassie.name = "Lassie"
 lassie.bark = "woof!"
 
-bark(name)
+lassie.bark
