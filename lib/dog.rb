@@ -10,9 +10,9 @@ end
 end
 
 class Dog
-def bark
-  puts "woof"
-end
+  def bark
+    puts "woof!"
+  end
 end
 
 #lassie = Dog.new
